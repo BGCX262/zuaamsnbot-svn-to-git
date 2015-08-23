@@ -1,0 +1,16 @@
+#玩意
+weeego.80d7ccbb137b1efbaff6f52dc3404740 =玩意
+#我知道
+weeego.15133d10f6e3dc971f650fac37e23d4b =我知道
+#都说了我知道了
+weeego.1c2ef29a3983b07e9cbae01ad6ec96fa =都说了我知道了
+#你丫的，唐僧啊
+weeego.027854a24282a80c334bf847b299371a =你丫的，唐僧啊
+#滚
+weeego.f361e25776077789e0db8ca985bf36c5 =滚
+#我是weeego创始人之一
+weeego.cf007f31ad1989ae22ede5bc1fe32134 =我是weeego创始人之一
+#nihao
+weeego.194ce5d0b89c47ff6b30bfb491f9dc26 =nihao
+#请问你们是什么组织
+weeego.404080cae3ebffb5e8386c17222c4b91 =请问你们是什么组织
